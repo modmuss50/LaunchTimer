@@ -1,0 +1,17 @@
+/bin
+/out
+/run
+/.gradle
+/.metadata
+/.settings
+./classpath
+/dep
+/build
+
+*.iws
+*.ipr
+*.iml
+Thumbs.db
+changelog.txt
+*.log
+.idea/*
